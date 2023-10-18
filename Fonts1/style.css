@@ -1,0 +1,22 @@
+h2{
+    font-family: 'lowan old style';
+    text-transform:capitalize;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27.3px;
+    
+}
+@font-face{
+    font-family: "chemi ponti";
+    src: url(./fonts/OldStandardTT-Regular.ttf);
+}
+p{
+ 
+font-weight: 400;
+font-size: 16px;
+line-height: 19.78px;
+text-transform: capitalize;
+font-family: "chemi ponti";
+
+
+}
